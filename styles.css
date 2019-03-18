@@ -1,0 +1,30 @@
+.img {
+    width: 3px;
+}
+body {
+    background: grey;
+    opacity: 0.8;
+}
+p {
+    font-size: 35px;
+}
+h1 {
+    font-size: 50px;
+}
+
+.peanut {
+    display: flex;
+    justify-content: space-around;
+}
+
+.cashew {
+    display: flex;
+    justify-content: center;
+}
+
+.almond {
+    width: 400px;
+}
+.hazelnut {
+    width: 400px;
+}
